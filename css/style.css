@@ -1,0 +1,14 @@
+.borders-style{
+    border: 1px solid #ff4a5f27;
+    width: 110px;
+    height: 25px;
+    border-radius: 1px;
+    background-color: #ff4a5f27;
+}
+.borders-style p{
+    font-weight: 600;
+    color: #FF4A60;
+}
+.ratings-color{
+    color: #FFC014;
+}
